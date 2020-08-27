@@ -828,6 +828,9 @@ footer {
     grid-template-columns: 32% 32% 32%;
     column-gap: 2%;
   }
+    #category {
+    height: 393px;
+  }
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
